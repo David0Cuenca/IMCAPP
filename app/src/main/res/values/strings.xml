@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IMCAPP</string>
+    <string name="Altura">Altura</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+    <string name="Edad">Edad</string>
+    <string name="Peso">Peso</string>
+    <string name="Calcular">Calcular</string>
 </resources>
