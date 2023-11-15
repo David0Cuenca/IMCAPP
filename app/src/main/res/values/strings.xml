@@ -6,4 +6,15 @@
     <string name="Edad">Edad</string>
     <string name="Peso">Peso</string>
     <string name="Calcular">Calcular</string>
+    <string name="Recalcular">Re-Calcular</string>
+    <string name="turesultado">Tu resultado</string>
+
+    <string name="gradouno_titulo">Peso Inferior a lo normal</string>
+    <string name="gradouno_des"></string>
+    <string name="gradodos_titulo">Normal</string>
+    <string name="gradodos_des"></string>
+    <string name="gradotres_titulo">Peso Superior al normal</string>
+    <string name="gradotres_des"></string>
+    <string name="gradocuatro_titulo">Obesidad</string>
+    <string name="gradocuatro_des"></string>
 </resources>
